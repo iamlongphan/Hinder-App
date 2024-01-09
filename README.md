@@ -1,4 +1,4 @@
-Hinder-App
+**Hinder-App**
 _________
 An application created in Java that utilizes SQL / MySQL to showcase usage of relational databases, is presented as a text-based app rather than a full app with GUI.
 
